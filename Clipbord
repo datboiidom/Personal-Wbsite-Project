@@ -1,0 +1,76 @@
+ 
+ musicinfo
+ <style>
+        body{
+            background-color: black;
+        }
+        h1{
+            color: red;
+        }
+        h2{
+            color: blue;
+        }
+        p{
+            color: blueviolet;
+        }
+    </style>
+
+
+drawinginfo
+ <style>
+        body{
+            background-color: black;
+        }
+        h1{
+            color: red;
+        }
+        p{
+            color: blueviolet;
+        }
+    </style>
+
+
+<h2>Weekly Schedule</h2>
+  <tr>
+    <th>sunday</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+  </tr>
+  <tr>
+   <th>5:00 play games</th>
+   <th>5:00 get ready</th>
+   <th>5:00 get ready</th>
+   <th>5:00 get ready</th>
+   <th>5:00 get ready</th>
+   <th>5:00 get ready</th>
+   <th>5:00 play games</th>
+</tr>
+<tr>
+  <th> 1:00 clean</th>
+  <th>7:10-3:01 school</th>
+  <th>710-3:01 school</th>
+  <th>8:20-2:07 school</th>
+  <th>8:40-3:03 school</th>
+  <th>7:17-3:11 school</th>
+  <th>1:00 clean</th>
+</tr>
+  <th> 5:00-shower </th>
+  <th>4:00-shower</th>
+  <th>4:00-shower</th>
+  <th>4:00-shower</th>
+  <th>4:00-shower</th>
+  <th>4:00-shower</th>
+  <th>5:00-shower</th>
+<tr>
+  <th>10:00-sleep</th>
+  <th>10:00-sleep</th>
+  <th>10:00-sleep</th>
+  <th>10:00-sleep</th>
+  <th>10:00-sleep</th>
+  <th>10:00-sleep</th>
+  <th>10:00-sleep</th>
+</tr>
